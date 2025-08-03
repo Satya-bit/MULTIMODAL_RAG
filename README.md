@@ -107,5 +107,4 @@ _ _ _ | _ _ _ | _ _ 5
 
 **Note:** While I provided the completed solutions using logic and typical Sudoku patterns, check the handwritten solution in a puzzle app or by hand for confirmation, as there may be typographical or placement errors without grid referencing.
 
-If you need the detailed step-by-step solving process or a clean grid to copy, let me know!
 ======================================================================
