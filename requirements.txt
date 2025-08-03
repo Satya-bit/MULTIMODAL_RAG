@@ -1,0 +1,10 @@
+PyMuPDF
+langchain
+transformers
+Pillow
+torch
+numpy
+scikit-learn
+faiss-cpu
+langchain_community
+langchain-openai
