@@ -27,7 +27,7 @@ Retrieved 1 documents:
   - Image from page 0
 
 
-Answer: The **worst performing model** from the graph is **ResNet50** (the green curve). It consistently has the lowest average score (%) across all numbers of labeled training examples per class compared to the other named models (Linear Probe CLIP, BiT-M (ImageNet-21K), and SimCLRv2).
+Answer: The worst performing model from the graph is ResNet50 (the green curve). It consistently has the lowest average score (%) across all numbers of labeled training examples per class compared to the other named models (Linear Probe CLIP, BiT-M (ImageNet-21K), and SimCLRv2).
 ======================================================================
 
 Query: What is the average score for Linear Probe CLIP model when the number of labeled training examples per class is 8?
@@ -37,5 +37,5 @@ Retrieved 1 documents:
   - Image from page 0
 
 
-Answer: When the number of labeled training examples per class is **8**, the **average score for the Linear Probe CLIP model** is approximately **68%** (as read from the purple line at the mark corresponding to 8 on the x-axis).
+Answer: When the number of labeled training examples per class is 8, the average score for the Linear Probe CLIP model is approximately 68% (as read from the purple line at the mark corresponding to 8 on the x-axis).
 ======================================================================
